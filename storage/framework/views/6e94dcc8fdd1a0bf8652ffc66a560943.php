@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\HP\Desktop\Work\NewBilling\resources\views/partials/printtemplate/footer.blade.php ENDPATH**/ ?>
